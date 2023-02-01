@@ -1,0 +1,17 @@
+[
+  {
+    "name": " Lexus IS300",
+    "engine specs": "2JZ ge 3.0L i6",
+    "model year": "2001"
+  },
+  {
+    "name": " Mazda Miata",
+    "engine specs": "1.8L i4",
+    "model year": "1998"
+  },
+  {
+    "name": "Honda Jazz",
+    "engine specs": "1.5L i4",
+    "modey year": "2020"
+  }
+]

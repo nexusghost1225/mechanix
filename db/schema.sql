@@ -1,3 +1,2 @@
 DROP DATABASE IF EXISTS auto_db;
 CREATE DATABASE auto_db;
-USE auto_db;
